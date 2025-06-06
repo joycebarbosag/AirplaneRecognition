@@ -1,0 +1,5 @@
+#To build this project you will need:
+tensorflow
+opencv-python
+matplotlib
+#run pip install -r requirements.txt
